@@ -8,4 +8,11 @@ public class maxmin {
             }
         }
     }
+    private static int getMMinFromArray(int[]array);
+    int indexOfMin=0;
+        for(int i = 1;i<array.length;i++){
+        if(array[i]<array[indexOfMax]){
+
+        }
+    }
 }
